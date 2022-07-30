@@ -1,0 +1,965 @@
+   50  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   51  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   52  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   53  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   54  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   55  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   56  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   57  ls
+   58  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   59  ls
+   60  ls
+   61  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   62  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   63  /Users/dintal/.conda/envs/pythonProject1/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   64  /Users/dintal/.conda/envs/pythonProject1/bin/python
+   65  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   66  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   67  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   68  cd /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/
+   69  pwd
+   70  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   71  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   72  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   73  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   74  cd /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved
+   75  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   76  cd /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved
+   77  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   78  cd /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved
+   79  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   80  cd /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved
+   81  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   82  cd /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved
+   83  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+   84  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved
+   85  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   86  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved
+   87  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   88  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved
+   89  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   90  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved
+   91  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   92  conda activated dev
+   93  conda activate dev
+   94  code .
+   95  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+   96  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+   97  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+   98  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+   99  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  100  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  101  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  102  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  103  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  104  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  105  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  106  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  107  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  108  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  109  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  110  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  111  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  112  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  113  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  114  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  115  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  116  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  117  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  118  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  119  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  120  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  121  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  122  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  123  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  124  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  125  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  126  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  127  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  128  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  129  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  130  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  131  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  132  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  133  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  134  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  135  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  136  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  137  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  138  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  139  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  140  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  141  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  142  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  143  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  144  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  145  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  146  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  147  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  148  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  149  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  150  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  151  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  152  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  153  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  154  cd /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved
+  155  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Solved/writr_to_file.py
+  156  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  157  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  158  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  159  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  160  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  161  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  162  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  163  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  164  sudo launchctl kickstart -k system/com.apple.audio.coreaudiod
+  165  sudo launchctl kickstart -k system/com.apple.audio.coreaudiod
+  166  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  167  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  168  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  169  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  170  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  171  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  172  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  173  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  174  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  175  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  176  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  177  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  178  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  179  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  180  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  181  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  182  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  183  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  184  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  185  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  186  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  187  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  188  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  189  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  190  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  191  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  192  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  193  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  194  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  195  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  196  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  197  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  198  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  199  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  200  cd /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved
+  201  /Users/dintal/opt/anaconda3/envs/dev/bin/python /Users/dintal/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  202  cd /Users/dintal/Desktop/github_upload
+  203  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/github_upload/mian.py
+  204  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  205  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  206  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  207  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  208  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  209  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  210  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  211  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  212  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  213  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  214  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  215  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  216  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  217  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  218  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  219  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  220  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  221  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  222  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  223  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  224  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  225  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  226  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  227  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  228  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  229  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  230  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  231  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  232  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  233  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  234  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  235  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  236  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  237  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  238  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  239  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  240  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  241  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  242  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  243  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  244  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  245  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  246  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  247  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  248  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  249  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  250  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  251  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  252  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  253  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  254  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code"
+  255  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 1/challenge/Starter_Code/loan_analyzer.py"
+  256  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  257  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  258  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  259  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  260  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  261  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  262  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  263  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  264  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved"
+  265  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  266  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  267  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  268  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  269  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  270  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  271  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  272  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  273  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  274  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  275  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  276  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  277  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  278  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  279  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  280  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  281  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  282  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  283  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  284  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  285  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  286  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  287  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  288  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  289  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  290  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  291  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  292  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  293  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  294  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  295  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  296  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  297  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  298  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  299  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  300  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  301  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  302  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  303  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  304  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  305  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  306  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  307  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  308  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  309  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  310  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  311  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  312  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  313  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  314  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  315  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  316  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  317  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  318  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  319  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  320  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  321  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  322  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  323  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  324  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  325  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  326  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  327  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  328  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  329  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  330  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  331  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  332  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  333  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  334  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  335  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  336  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  337  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  338  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  339  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  340  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  341  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  342  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  343  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  344  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  345  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  346  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  347  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  348  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  349  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  350  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  351  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  352  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  353  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  354  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  355  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  356  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  357  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  358  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  359  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  360  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  361  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  362  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  363  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  364  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  365  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  366  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  367  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  368  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  369  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  370  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  371  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  372  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  373  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  374  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  375  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  376  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  377  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  378  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  379  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  380  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  381  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  382  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  383  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  384  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  385  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  386  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  387  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  388  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  389  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  390  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  391  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  392  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  393  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  394  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  395  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  396  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  397  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  398  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  399  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  400  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  401  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  402  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  403  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  404  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  405  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  406  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  407  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  408  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  409  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  410  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  411  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  412  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  413  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  414  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  415  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  416  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  417  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  418  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  419  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  420  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  421  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  422  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  423  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  424  pip freeze
+  425  conda acticate dev
+  426  conda activate dev
+  427  pip -v
+  428  pip -V
+  429  pip install fire
+  430  pip questionary
+  431  pip install questionary
+  432  pwd
+  433  ls
+  434  cd desktop
+  435  mkdir rere
+  436  ls
+  437  rm -r rere
+  438  ls
+  439  clear
+  440  sudo nvram -c
+  441  sudo nvram -c
+  442  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  443  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  444  conda activate dev
+  445  pip install fire
+  446  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  447  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  448  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  449  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  450  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  451  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  452  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  453  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  454  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  455  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  456  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  457  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  458  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  459  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  460  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  461  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  462  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  463  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  464  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  465  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  466  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  467  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  468  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  469  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  470  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  471  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  472  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  473  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  474  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  475  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  476  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  477  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  478  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  479  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  480  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  481  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  482  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  483  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  484  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  485  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  486  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  487  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  488  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  489  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  490  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  491  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  492  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  493  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  494  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  495  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  496  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  497  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  498  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  499  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  500  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  501  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  502  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  503  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  504  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  505  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  506  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  507  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  508  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  509  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  510  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  511  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  512  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  513  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  514  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  515  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  516  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  517  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  518  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  519  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  520  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  521  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  522  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  523  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  524  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  525  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  526  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  527  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  528  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  529  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  530  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  531  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  532  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  533  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  534  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  535  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  536  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  537  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  538  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  539  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  540  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  541  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  542  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  543  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  544  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  545  conda activate
+  546  jupter notebook
+  547  jupyter notebook
+  548  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI"
+  549  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/First CLI/cli.py"
+  550  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  551  cd Desktop
+  552  ls
+  553  cd FinTech-Workspace
+  554  ls
+  555  cd Module 2
+  556  cd Module 2/
+  557  cd Module 2\ncd Module\ 2 
+  558  ls
+  559  cd First\ CLI
+  560  ls
+  561  python3 cli.py
+  562  python3 cli.py
+  563  python cli.py
+  564  conda activate dev
+  565  python cli.py
+  566  python cli.py
+  567  python cli.py
+  568  python cli.py
+  569  python cli.py
+  570  python cli.py
+  571  python cli.py
+  572  python cli.py
+  573  python cli.py
+  574  python cli.py
+  575  python cli.py
+  576  python cli.py
+  577  python cli.py
+  578  python cli.py
+  579  python cli.py
+  580  python cli.py
+  581  python cli.py --pants=True
+  582  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  583  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  584  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  585  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  586  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary"
+  587  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  588  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary"
+  589  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  590  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary"
+  591  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  592  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  593  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary"
+  594  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  595  cd desktop
+  596  conda activate
+  597  conda activate dec
+  598  conda activate dev
+  599  ls
+  600  cd FinTech-Workspace
+  601  cd Module \2
+  602  cd Module \ 2
+  603  cd Module\ 2
+  604  ls
+  605  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  606  ls
+  607  cd Unsolved
+  608  ls
+  609  python app.py
+  610  python app.py
+  611  python app.py
+  612  python app.py --credit_score=750
+  613  python3 app.py --credit_score=750
+  614  python app.py --credit_score=750
+  615  python app.py
+  616  python app.py --credit_score=750
+  617  python app.py --credit_score=750
+  618  python app.py --credit_score=750
+  619  python app.py --credit_score=75
+  620  python app.py --credit_score=800
+  621  python app.py --credit_score=900
+  622  python app.py --credit_score=0
+  623  python app.py --credit_score=650
+  624  python app.py --credit_score=600
+  625  python app.py --credit_score=590
+  626  python app.py --credit_score=590
+  627  python app.py --credit_score=590
+  628  python app.py --credit_score=590 --debt=5000 --income=20000
+  629  python app.py --credit_score=750 --debt=5000 --income=20000
+  630  python app.py --credit_score=750 --debt=5000 ==income=20000
+  631  python app.py --credit_score=750 --debt=5000 --income=10000
+  632  python app.py --credit_score=750 --debt=5000 --income=60000
+  633  python app.py --credit_score=750 --debt=15000 --income=60000
+  634  python app.py --credit_score=750 --debt=150000 --income=60000
+  635  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary"
+  636  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/Questinary/dialog.py"
+  637  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  638  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  639  conda activate dev
+  640  cd /Users/dintal/Desktop/FinTech-Workspace/Module\ 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved 
+  641  conda activate dev
+  642  python --credit=750 --debt=5000 --income=20000
+  643  python app.py --credit=750 --debt=5000 --income=20000
+  644  python app.py --credit_score=750 --debt=5000 --income=20000
+  645  python app.py
+  646  python app.py
+  647  python app.py
+  648  python app.py
+  649  100000
+  650  python app.py
+  651  python app.py
+  652  python app.py
+  653  python app.py
+  654  python app.py
+  655  git config --list
+  656  conda deactivate
+  657  git config --list
+  658  conda activate dev
+  659  git config --global user.name Tao
+  660  git config --global user.email dintalsky@gmail.com
+  661  git config --list
+  662  cd desktop
+  663  cd Desktop
+  664  cd ..
+  665  cd ..
+  666  cd ..
+  667  cd ..
+  668  git clone https://github.com/Latnid/FinTechWorkSpace.git
+  669  cd FinTechWorkSpace
+  670  git status
+  671  git add README.md
+  672  git status
+  673  touch new_file.txt
+  674  ls
+  675  git status
+  676  git add new_file.txt
+  677  git statues
+  678  git status
+  679  git commit -m new file add
+  680  git commit -m "new file added"
+  681  git status
+  682  git push
+  683  git status
+  684  git add README.md
+  685  git status
+  686  git commit
+  687  git status
+  688  push git
+  689  git push
+  690  jupyter notebook
+  691  conda activate dev
+  692  jupyter notebook
+  693  jupyter notebook
+  694  conda devative
+  695  conda deactivate
+  696  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  697  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  698  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  699  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  700  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  701  conda activate dev
+  702  jupyter notebook
+  703  cd /Applications/ScreenRec.app/Contents/MacOS 
+  704  ./ScreenRec
+  705  ./ScreenRec
+  706  cd Desktop
+  707  cd /Users/dintal/Desktop/ScreenRec.app/Contents/MacOS 
+  708  ./ScreenRec
+  709  ./ScreenRec
+  710  cd /Users/dintal/Desktop/ScreenRec.app/Contents/MacOS 
+  711  ./ScreenRec
+  712  ./ScreenRec
+  713  cd /Users/dintal/Desktop/ScreenRec.app/Contents/MacOS 
+  714  ./ScreenRec
+  715  cd /Users/dintal/Desktop/ScreenRec.app/Contents/MacOS 
+  716  ./ScreenRec
+  717  /Users/dintal/opt/anaconda3/envs/dev/bin/python
+  718  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  719  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  720  2
+  721  a
+  722  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  723  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  724  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  725  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  726  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  727  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  728  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  729  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  730  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  731  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  732  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  733  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  734  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  735  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  736  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  737  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  738  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  739  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  740  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  741  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  742  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  743  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  744  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  745  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  746  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  747  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  748  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  749  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  750  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  751  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  752  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  753  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  754  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  755  jupyter notebook
+  756  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  757  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  758  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  759  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  760  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  761  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  762  /Users/dintal/opt/anaconda3/bin/python
+  763  cd /Users/dintal/Desktop/ForReamMe
+  764  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/ForReamMe/test.py
+  765  cd /Users/dintal/Desktop/ForReamMe
+  766  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/ForReamMe/test.py
+  767  cd /Users/dintal/Desktop/ForReamMe
+  768  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/ForReamMe/test.py
+  769  cd /Users/dintal/Desktop/ForReamMe
+  770  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/ForReamMe/test.py
+  771  cd /Users/dintal/Desktop/ForReamMe
+  772  /Users/dintal/opt/anaconda3/bin/python /Users/dintal/Desktop/ForReamMe/test.py
+  773  cd desktop
+  774  git clone https://github.com/Latnid/ForReamMe.git
+  775  git status
+  776  ls
+  777  cd ForReamMe
+  778  git status
+  779  git status
+  780  git -a
+  781  git a
+  782  git add -a
+  783  git add a
+  784  git add
+  785  git add README.md
+  786  git status
+  787  git commite -m "ReadMeTestFile"
+  788  git commit -m "ReadMeTestFile"
+  789  git push
+  790  sudo asitop
+  791  pip asitop
+  792  pip instal asitop
+  793  pip install asitop
+  794  sudo asitop
+  795  sudo asitop
+  796  python --version
+  797  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  798  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  799  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  800  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  801  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  802  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  803  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  804  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  805  cd "/Users/dintal/Desktop/FinTech-Workspace/Module 2"
+  806  /Users/dintal/opt/anaconda3/envs/dev/bin/python "/Users/dintal/Desktop/FinTech-Workspace/Module 2/test.py"
+  807  sudo asitop
+  808  sudo vi /etc/paths
+  809  cd Desktop
+  810  pip --version
+  811  sudo vi /etc/paths
+  812  pip -v
+  813  pip -V
+  814  sudo spctl --master-disable
+  815  powermetrics
+  816  sudo powermetrics
+  817  git clone https://github.com/Latnid/Challenges.git
+  818  mkdir Module_2
+  819  cd Module_2/
+  820  touch README.md
+  821  git add -A
+  822  git status
+  823  cd ..
+  824  git status
+  825  cd Challenges
+  826  git status
+  827  git status
+  828  git add -A
+  829  git status
+  830  git commit -m "Create folder for Module 2 Challenge"
+  831  git push
+  832  ls
+  833  cd ..
+  834  ls
+  835  cd Challenges
+  836  ls
+  837  cd .
+  838  cd .
+  839  cd ..
+  840  ls
+  841  cd Challenges
+  842  git status
+  843  rm -rf .git
+  844  cd ..
+  845  cd Desktop
+  846  ls
+  847  cd/Users/dintal/Desktop/Module_Challenges 
+  848  cd /Users/dintal/Desktop/Module_Challenges 
+  849  git clone https://github.com/Latnid/Module_Challenges.git
+  850  cd ..
+  851  ls
+  852  cd Module_Challenges
+  853  ls
+  854  cd Module_Challenges
+  855  rm -rf .git
+  856  cd Desktop
+  857  cd ..
+  858  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  859  /Users/dintal/opt/anaconda3/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  860  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  861  /Users/dintal/.conda/envs/pythonProject1/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  862  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  863  /Users/dintal/.conda/envs/pythonProject1/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  864  conda activate dev
+  865  pip install fire
+  866  pip install questionary
+  867  python --version
+  868  pip -version
+  869  pip --version
+  870  pip --list
+  871  pip -list
+  872  pip list
+  873  python --V
+  874  python --version
+  875  python --version
+  876  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  877  /Users/dintal/opt/anaconda3/envs/dev/bin/python.app "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  878  python --version
+  879  python --version
+  880  . /Users/dintal/opt/anaconda3/bin/activate && conda activate /Users/dintal/opt/anaconda3/envs/FinTech; 
+  881  . /Users/dintal/opt/anaconda3/bin/activate && conda activate /Users/dintal/opt/anaconda3/envs/dev; 
+  882  code .
+  883  conda deactivate dev
+  884  conda deactivate
+  885  conda activate FinTech
+  886  python --version
+  887  pip install fire
+  888  install questionary
+  889  install questionary
+  890  pip install questionary
+  891  conda deactive
+  892  conda deactivate
+  893  conda activate dev
+  894  code .
+  895  pip install fire
+  896  pip install questionary
+  897  python --version
+  898  code /
+  899  cd Desktop
+  900  git clone https://github.com/Latnid/Module_Challenges.git
+  901  cd Module_Challenges
+  902  git status
+  903  git add -A
+  904  git reset -A
+  905  git reset .DS_Store
+  906  git status
+  907  git commit -m "upload starter 2 floders"
+  908  git push
+  909  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  910  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  911  ./data/daily_rate_sheet.csv
+  912  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  913  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  914  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  915  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  916  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  917  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  918  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  919  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  920  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  921  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  922  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  923  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  924  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  925  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  926  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  927  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  928  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  929  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  930  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  931  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  932  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  933  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  934  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/qualifier/utils"
+  935  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/qualifier/utils/fileio.py"
+  936  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  937  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  938  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  939  750
+  940  200
+  941  4000
+  942  100000
+  943  210000
+  944  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  945  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  946  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  947  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  948  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  949  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  950  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  951  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  952  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  953  cd desktop
+  954  cd Module_Challenges
+  955  git status
+  956  git add app.py
+  957  git add 2/Starter_Code 2/loan_qualifier_app/app.py
+  958  git add ./2/Starter_Code 2/loan_qualifier_app/app.py
+  959  cd 2
+  960  cd Starter_Code\ 2
+  961  cd loan_qualifier_app
+  962  git add app.py
+  963  git reset app.py
+  964  git add app.py
+  965  git status
+  966  git commit -m function save_csv added
+  967  git commit -m "add function save_csv" 
+  968  git push
+  969  git status
+  970  find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+  971  .DS_Store
+  972  git status
+  973  cd ..
+  974  cd ..
+  975  git status
+  976  git add -A
+  977  git status 
+  978  git commit -m "Improve architecture move save_csv to fileio"
+  979  git status 
+  980  git push
+  981  git status
+  982  git add
+  983  git add -A
+  984  git status
+  985  git commit -m "Usability:add ask user whether want to save the data as csv"
+  986  git log -p
+  987  git push
+  988  git status
+  989  git push
+  990  cd "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app"
+  991  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  992  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  993  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  994  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  995  /Users/dintal/opt/anaconda3/envs/FinTech/bin/python "/Users/dintal/Desktop/Module_Challenges/2/Starter_Code 2/loan_qualifier_app/app.py"
+  996  cd desktop
+  997  cd Module_Challenges
+  998  git push
+  999  git push
+ 1000  git push --help
+ 1001  git push
+ 1002  cd desktop
+ 1003  cd Module_Challenges
+ 1004  git push
+ 1005  git pull
+ 1006  git push
+ 1007  git status
+ 1008  git status
+ 1009  git add
+ 1010  git add -a
+ 1011  git add -A
+ 1012  git status
+ 1013  git commit -m "README.md and LICENSE added" 
+ 1014  git push
