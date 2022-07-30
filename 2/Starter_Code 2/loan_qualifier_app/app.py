@@ -111,9 +111,15 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
 
-    #ask user the path location of the file he/she want to save.
-    csv_save_path=Path(questionary.text("Enter a file path to save the qualifying bank loans (.csv):").ask())
-    
+    #ask the user whether they want to save their qualify loans.
+    if questionary.confirm("Do you want to save the result as csv file?").ask():
+
+         #ask user the path location of the file he/she want to save.
+        csv_save_path=Path(questionary.text("Enter a file path to save the qualifying bank loans (.csv):").ask())
+    else:
+        print("See you next time, byebye")
+        return 
+        
     return save_csv(csv_save_path,qualifying_loans)
 
 
