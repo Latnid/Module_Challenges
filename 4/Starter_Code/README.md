@@ -31,7 +31,6 @@ Install the app's dependencies first.
 ---
 
 ## Usage
-## Usage
 
 Download all the requirement data including csv files
 Store all csv files in Resources folder.
