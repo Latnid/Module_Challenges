@@ -8,7 +8,6 @@ __pycache__/
 
 # OS generated files
 .DS_Store
-.DS_Store?
 
 # Distribution / packaging
 .Python
