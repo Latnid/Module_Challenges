@@ -21,7 +21,8 @@ This project uses Python 3.7 and the associated packages:
 * [jupyter notebook](https://jupyter.org/) -J upyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning.
 
 * [sklearn](https://scikit-learn.org/) - Simple and efficient tools for predictive data analysis.Open source, commercially usable - BSD license
-[Tensorflow](https://www.tensorflow.org/) - An end-to-end machine learning platform. Find solutions to accelerate machine learning tasks at every stage of your workflow.
+
+* [Tensorflow](https://www.tensorflow.org/) - An end-to-end machine learning platform. Find solutions to accelerate machine learning tasks at every stage of your workflow.
 
 Installation Guide
 
