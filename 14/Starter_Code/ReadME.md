@@ -57,8 +57,8 @@ Expanding the short_window and reducing the long_window together drops the accur
 
 change model to AdaBoost
 
-![change model](./img/ada.png)
-![change model](./img/ada_summary.png)
+![change model](./img/Ada.png)
+![change model](./img/Ada_summary.png)
 
 Changing the classifier to AdaBooster drops the accuracy rate to 0.49, which makes it worse. So we know the SVM is better.
 
