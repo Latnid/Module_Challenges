@@ -24,8 +24,8 @@ Install the app's dependencies first.
 ---
 # Useage
 
-To review the codes, download and open lambda_function.py 
-To review Amazon Lex exported file, download and opn RoboAdvisor_1_ad731a72-54c3-4fec-9330-a27b89306c98_Bot_LEX_V1.zip under Resource folder.
+To review the codes, download and open lambda_function.py under "Lambda" folder.
+To review Amazon Lex exported file, download and opn RoboAdvisor_1_ad731a72-54c3-4fec-9330-a27b89306c98_Bot_LEX_V1.zip under "Resource" folder.
 
 
 # Gifs show time
