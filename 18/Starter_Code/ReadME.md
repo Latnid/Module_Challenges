@@ -22,7 +22,7 @@ Install the app's dependencies first.
 ---
 # Useage
 
-![BlockChain_streamlit.gif](BlockChain_streamlit.gif)
+![BlockChain_streamlit.gif](show.gif)
 
 To review the codes, download and open pychain.py
 
