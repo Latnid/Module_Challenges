@@ -29,14 +29,17 @@ Install the app's dependencies first.
 ---
 # Show Time
 
-FullPage
+FullPage:
 
-![FullPage](/Images/fullpage.png)
+![FullPage](./Images/page.gif)
 
 Account:
-![Account](/Images/account0.png)
 
-![Transaction](/Images/transaction.png)
+![Account](./Images/account0.png)
+
+Transaction:
+
+![Transaction](./Images/transaction.png)
 
 
 To review the codes, download and open fintech_finder.py
