@@ -45,7 +45,7 @@ Transaction 3: Send 5 ether.
 
 
 
-To review the codes, download and open fintech_finder.py
+To review the codes, download and open joint_savings.sol
 
 ---
 
